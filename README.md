@@ -1,2 +1,0 @@
-# zendb
-ha
